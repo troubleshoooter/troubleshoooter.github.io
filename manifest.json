@@ -1,11 +1,11 @@
 {
     "name": "Deepesh Tiwari",
-    "short_name": "DT",
+    "short_name": "Deepesh",
     "start_url": ".",
-    "display": "minimal-ui",
-    "background_color": "#0175C2",
+    "display": "standalone",
+    "background_color": "#000000",
     "theme_color": "#0175C2",
-    "description": "Deepesh Tiwari Portfolio",
+    "description": "Live portfolio using flutter 2.0",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
